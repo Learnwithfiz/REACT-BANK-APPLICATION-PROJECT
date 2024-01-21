@@ -1,0 +1,70 @@
+.Login{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: cyan;
+    box-shadow: 5px 5px 10px #000000;
+    border-radius: 20px;
+    text-align: center;
+}
+.LoginForm{
+    width: 90%;
+    padding: 12px;
+    margin-top: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+
+}
+.Title{
+    text-align: center;
+    color: brown;
+}
+.LoginBtn{
+    padding: 10px 30px;
+    color: white;
+    background-color: blueviolet;
+    font-size: 1rem;
+    margin-top: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/*Bank style starts here*/
+.main-div{
+    width: 1500px;
+    background-color: aliceblue;
+    margin: 0 auto;
+
+}
+.left-div{
+    width: 25%;
+    float: left;
+    background-color: orange;
+    height: 280px;
+    margin-left: 18px;
+}
+.middle-div{
+    width: 25%;
+    float: left;
+    background-color: rgb(66, 100, 236);
+    height: 280px;
+    margin-left: 18px;
+}
+.right-div{
+    width: 25%;
+    float: left;
+    background-color: orange;
+    height: 280px;
+    margin-left: 18px;
+}
+.depoInput{
+    width: 90%;
+    padding: 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.totalBalance{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+}
