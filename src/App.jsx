@@ -1,11 +1,10 @@
-
-import Login from './Login'
+import MyUserRef from './MyUserRef';
 function App() {
  
 
   return (
     <>
-     <Login />
+      <MyUserRef/>
     </>
   )
 }
